@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30001.183
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "数据结构（Python）", "数据结构（Python）\数据结构（Python）.pyproj", "{2D2AED63-1E4C-4EFF-B628-AC647100A614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D2AED63-1E4C-4EFF-B628-AC647100A614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2AED63-1E4C-4EFF-B628-AC647100A614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCF22B4-D384-49BF-923F-77037139E6A7}
+	EndGlobalSection
+EndGlobal
