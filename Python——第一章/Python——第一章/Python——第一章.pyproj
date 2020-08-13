@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>29dc3ba3-c2ee-4383-a9b2-24ecffb82213</ProjectGuid>
+    <ProjectGuid>d27ca2c3-f226-45a1-b8a1-08eb81044d94</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>小姐姐的代码.py</StartupFile>
+    <StartupFile>Python__第一章.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>小姐姐的代码</Name>
-    <RootNamespace>小姐姐的代码</RootNamespace>
+    <Name>Python——第一章</Name>
+    <RootNamespace>Python——第一章</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="小姐姐的代码.py" />
+    <Compile Include="Python__第一章.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
