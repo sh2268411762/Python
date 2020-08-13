@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>2d2aed63-1e4c-4eff-b628-ac647100a614</ProjectGuid>
+    <ProjectGuid>6cf78b9b-6652-4322-836d-e01a374b0c81</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>数据结构_Python_.py</StartupFile>
+    <StartupFile>_Python_流程控制.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>数据结构（Python）</Name>
-    <RootNamespace>数据结构（Python）</RootNamespace>
+    <Name>（Python）流程控制</Name>
+    <RootNamespace>（Python）流程控制</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="数据结构_Python_.py" />
+    <Compile Include="_Python_流程控制.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
