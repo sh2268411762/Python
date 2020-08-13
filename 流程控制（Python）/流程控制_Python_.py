@@ -56,19 +56,83 @@
 #    print("x6")
 
 
-x = 0
-if x:
-    print("x不是0")
-else:
-    print("x是0")
+#x = 0
+#if x:
+#    print("x不是0")
+#else:
+#    print("x是0")
 
 
-x = 49
-if x>90:
-    print("优")
-elif x>80:
-    print("良")
-elif x>60:
-    print("及格")
+#x = 49
+#if x>90:
+#    print("优")
+#elif x>80:
+#    print("良")
+#elif x>60:
+#    print("及格")
+#else:
+#    print("不及格")
+
+#x = 1
+#while x<=10:
+#    print(x)
+#    x += 1#不能省略，否则死循环
+
+
+
+#for x in (1,2,3,4,5,6,7,8,9,10):
+#    print(x)
+
+#for x in (0,1,2):
+#    print("Hello World!")
+
+#for x in range(10):
+#    print(x)
+#print("\n")
+
+#for x in range(1,10):
+#    print(x)
+#print("\n")
+
+#for x in range(1,10,2):
+#    print(x)
+#print("\n")
+
+#for i in range(10):
+#    if i > 5:
+#        break
+#    print(i)
+#print("\n")
+
+#for i in range(10):
+#    if i == 5:
+#        continue
+#    print(i)
+#print("\n")
+
+
+##pass语句
+#for i in range(10):
+#    if i == 3:
+#        pass
+#    else:
+#        print(i)
+#print("\n")
+
+#count = 0
+#while count < 5:
+#    print(count,"is less than 5")
+#    if count == 3:
+#        break#不执行else语句
+#    count = count + 1
+#else:
+#    print(count,"is no less than 5")
+
+
+for count in range(5):
+    print(count,"in for segment")
+    if 3 == count:
+        break
 else:
-    print("不及格")
+    print(count + 1,"int else segment")
+
