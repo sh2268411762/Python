@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30001.183
+VisualStudioVersion = 16.0.30803.129
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "流程控制（Python）", "流程控制（Python）.pyproj", "{1AB7EFCC-DF6A-4E0F-893B-1320D4686E37}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyTest", "PyTest\PyTest.pyproj", "{86BCB4A4-BC05-4AD1-B51D-7C9556E0EF97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1AB7EFCC-DF6A-4E0F-893B-1320D4686E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1AB7EFCC-DF6A-4E0F-893B-1320D4686E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BCB4A4-BC05-4AD1-B51D-7C9556E0EF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BCB4A4-BC05-4AD1-B51D-7C9556E0EF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {012B0EA3-54AD-44DD-877E-13FC8B7D8885}
+		SolutionGuid = {0AC09902-81D2-4E2A-A499-8A74186A0452}
 	EndGlobalSection
 EndGlobal
